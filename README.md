@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @MaciekSIeradz
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on Java web applications
 - 📫 How to reach me macieks53@gmail.com
 
 <!---
