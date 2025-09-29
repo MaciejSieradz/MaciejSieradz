@@ -1,6 +1,6 @@
 # Hi there, I'm Maciek 👋
 
-I'm a computer science student at SGGW in Warsaw, Poland, and I also work as a Kotlin developer. I am passionate about building applications. I am currently learning Go.
+I'm a computer science student at SGGW in Warsaw, Poland, and I also work as a Junior Java FullStack developer. I am passionate about building applications. I am currently learning Go.
 
 ##  Currently working on
 - An application for Pathfinder which will help GM's to lead the game.
