@@ -12,7 +12,6 @@ I'm a computer science student at SGGW in Warsaw, Poland, and I also work as a J
 ---
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaciejSieradz&theme=dark&include_all_commits=true&layout=compact" />
 <br clear="both">
-
 ---
 
 # 💻 Technologies I have interacted with:
