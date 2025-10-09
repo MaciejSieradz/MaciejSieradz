@@ -9,12 +9,6 @@ I'm a computer science student at SGGW in Warsaw, Poland, and I also work as a J
 - Hiker: A mobile application for searching and sharing mountain routes.
 - Best Offer Finder: A full-stack web app that notifies users about new car offers on the Otomoto platform. Developed as part of a university group project, I served as the backend developer.
 
----
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaciejSieradz&theme=dark&include_all_commits=true&layout=compact" />
-<br clear="both">
-
----
-
 # 💻 Technologies I have interacted with:
 ![Kotlin](https://img.shields.io/badge/kotlin-%2320232a.svg?style=for-the-badge&logo=kotlin&logoColor=%a4c639)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
